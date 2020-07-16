@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("first_t");
         System.out.println("second_t");
+        System.out.println("third_t");
     }
 }
