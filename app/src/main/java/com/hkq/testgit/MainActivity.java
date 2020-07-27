@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("five_t");
         System.out.println("测试中文乱码1");
         System.out.println("测试中文乱码2");
+        System.out.println("测试中文乱码3");
     }
 }
